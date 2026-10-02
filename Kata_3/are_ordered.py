@@ -8,6 +8,3 @@ def are_ordered(list_of_values):
             return False
 
     return True
-
-
-print(are_ordered([1,2,3,4]))
